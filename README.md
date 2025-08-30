@@ -29,7 +29,7 @@
   </ul>
  </section>
  <Section>
-  <title>Types of Requirements.</title>
+  <h1>Types of Requirements.</h1>
   <table border="1" cellpadding="10" cellspacing="0">
   <thead>
     <tr>
