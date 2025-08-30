@@ -18,3 +18,13 @@
   <li>Project scope: It helps to clearly define the scope of a project and prevent scope creep which can unnecessarily delay or prevent launch.</li>
 </ul>
  </section>
+ <section>
+  <h1>Key Activities in Requirement Analysis.</h1>
+  <ul>
+   <li><em>Requirement Gathering</em>: this is a system of gathering information from the stakeholders with interviews, surveys, and  questionaires to have a detailed scope of the project</li>
+   <li><em>Requirement Elicitation</em>: this is a step further after requirement gathering. Brainstorming, focus groups experiments, and prototyping should happen here</li>
+   <li><em>Requirement Documentation</em>: it entails drawing up a requirements secification document, user stories, and use cases for the project
+   <li><em>Requirement Analysis and Modeling</em>: the document is then analysed and modelled into visual form. It also entails requirements prioritization: placing the requirements in order of importance</li>
+   <li><em>Requirement Validation</em>: the requirement analysis is then validated by meeting the acceptance criteria</li>
+  </ul>
+ </section>
