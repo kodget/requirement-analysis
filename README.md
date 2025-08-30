@@ -64,4 +64,11 @@
  </Section>
  <section>
   <h1>Use Case Diagrams.</h1>
+  <p>Use case diagrams are keen visual representations of how actors(users) interact with a system or software from start to finish</p>
+  <h4> Benefits of use case diagrams</h4>
+  <ul>
+   <li>Provision of extra clarity</li>
+   <li>Alignment of design and development team</li>
+   <li>Visualisation of project scope to prevent scope creep</li>
+  </ul>
  </section>
