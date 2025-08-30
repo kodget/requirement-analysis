@@ -4,9 +4,12 @@
   Requirement analysis is the process of deciding on the SDLC of a project from requirement gathering to requirement validation through defining key acceptance criteria.
  </p>
  </section>
-# Why is requirement analysis important
-requirement analysis is important because of the following reasons:
-<ul>
+ <section>
+  <h1>Why is Requirement Analysis Important?</h1>
+  <div>
+   <h3>requirement analysis is important because of the following reasons:</h3>
+  </div>
+   <ul>
   <li>Clarity and alignment: It provides clarity about the detials of the project such as project scope, cost, time frame, and other important variables to make key decisions in the project
   </li>
   <li>
@@ -14,3 +17,4 @@ requirement analysis is important because of the following reasons:
   </li>
   <li>Project scope: It helps to clearly define the scope of a project and prevent scope creep which can unnecessarily delay or prevent launch.</li>
 </ul>
+ </section>
