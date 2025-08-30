@@ -71,5 +71,5 @@
    <li>Alignment of design and development team</li>
    <li>Visualisation of project scope to prevent scope creep</li>
   </ul>
-  ![Use Case diagram](.alx-booking-uc.png)
+  ![Use Case diagram](./alx-booking-uc.png)
  </section>
