@@ -71,6 +71,5 @@
    <li>Alignment of design and development team</li>
    <li>Visualisation of project scope to prevent scope creep</li>
   </ul>
-<img src = "alx-booking-uc.png" alt = "use_case_diagram" width = "300px" height = "300px" />
-  ![Use Case diagram](./alx-booking-uc.png)
+<img src = "alx-booking-uc.png" alt = "use_case_diagram" width = "900px" height = "600px" />
  </section>
