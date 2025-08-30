@@ -28,3 +28,37 @@
    <li><em>Requirement Validation</em>: the requirement analysis is then validated by meeting the acceptance criteria</li>
   </ul>
  </section>
+ <Section>
+  <title>Types of Requirements.</title>
+  <table border="1" cellpadding="10" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Aspect</th>
+      <th>Functional Requirements</th>
+      <th>Non-Functional Requirements</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Definition</td>
+      <td>Specifies what the system should do.</td>
+      <td>Specifies how the system performs its.</td>
+    </tr>
+    <tr>
+      <td>Focus</td>
+      <td>On user needs and business rules.</td>
+      <td>On performance, security, usability, and reliability.</td>
+    </tr>
+    <tr>
+      <td>Example</td>
+      <td>"The system shall allow users to log in with an email and password(user authentication)"</td>
+      <td>"The system shall load the dashboard within 2 seconds for 95% of users(performance)"</td>
+    </tr>
+    <tr>
+      <td>Importance</td>
+      <td>Determines the system’s features.</td>
+      <td>Determines the user experience and system quality.</td>
+    </tr>
+  </tbody>
+</table>
+ </Section>
